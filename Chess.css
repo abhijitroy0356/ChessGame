@@ -1,0 +1,24 @@
+.chessboard{
+    display: grid;
+    
+    grid-template-columns: repeat(8, 1fr);
+    text-align: center;
+    height: 600px;
+    width: 600px;
+}
+.outbox{
+    padding-top:50px;
+    display: flex;
+    justify-content: center;
+}
+.white{
+    background-color: #f5cea9;
+    color: black;
+    height: 80px;
+
+}
+.black{
+    background-color:#b9926b;
+    height: 80px;
+    color: aliceblue;
+}
