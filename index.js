@@ -1,6 +1,0 @@
-const ghora =document.querySelectorAll('.ghora')
-const hathi =document.querySelectorAll('.hathi')
-const king = document.querySelectorAll('.king')
-const mantri=document.querySelectorAll('.mantri')
-const nouka=document.querySelectorAll('.nouka')
-const pawn=document.querySelectorAll('.pawn')
